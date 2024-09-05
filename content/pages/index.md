@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'I’m a Software Engineer, 3D Artist, and a game developer.'
+    title: >-
+      I’m a Software Engineer, 3D Artist,Computer Science Student, and a game
+      developer.
     subtitle: >-
       I’m balancing school with my passion projects, including a game I'm
       developing in my spare time. Dive into my journey, skills, and credentials
