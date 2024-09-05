@@ -18,8 +18,8 @@ sections:
       developer.
     subtitle: >-
       I’m balancing school with my passion projects, including a game I'm
-      developing in my spare time. Dive into my journey below—you're sure to be
-      impressed!
+      developing in my spare time. I have other projects I'm working on too. Be
+      sure to stay tuned as I'm going to be updating as I complete my journey!
     styles:
       self:
         height: auto
