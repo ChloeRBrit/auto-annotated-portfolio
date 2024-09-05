@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Web Application Dashboard
 colors: colors-a
-date: '2024-09-22'
+date: '2024-09-05'
 client: Awesome client
 description: >-
   The project involved developing a web-based dashboard for an animal shelter
