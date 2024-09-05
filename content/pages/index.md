@@ -48,10 +48,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/bg2.jpg
-      altText: Project image
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
