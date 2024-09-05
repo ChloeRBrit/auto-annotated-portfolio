@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a Software Engineer, , consultant and a bunch of other impressive
-      titles and buzz words.
+    title: 'I’m a Software Engineer, 3D Artist, and a game developer.'
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
