@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/opera_uj56CSawe2.png
   altText: Project image
 ---
 
