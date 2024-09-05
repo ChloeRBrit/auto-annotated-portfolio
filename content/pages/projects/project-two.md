@@ -12,10 +12,6 @@ featuredImage:
   type: ImageBlock
   url: /images/studio64_qSBsU6rmJs.png
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  altText: Project image
-  url: /images/studio64_EJYgzDvRiG.png
 bottomSections:
   - type: MediaGallerySection
     title: Gallery
