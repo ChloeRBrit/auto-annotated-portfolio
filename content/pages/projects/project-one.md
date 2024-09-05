@@ -4,7 +4,10 @@ title: Current game I'm working on
 colors: colors-a
 date: '2024-09-05'
 client: ''
-description: ''
+description: >-
+  I have a big passion for games as well as creating them. This game is a
+  souls-like game with the main character being a frog. Click here for more info
+  on it!
 media:
   type: ImageBlock
   url: /images/image_2024-09-05_063321817.png
