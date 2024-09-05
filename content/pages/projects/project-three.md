@@ -9,10 +9,6 @@ description: >-
   management system using the Dash framework within Jupyter notebooks. The main
   functionalities included data visualization, interactive filtering, and
   geolocation mapping of animal rescue data. 
-featuredImage:
-  type: ImageBlock
-  url: /images/opera_uj56CSawe2.png
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/opera_uj56CSawe2.png
