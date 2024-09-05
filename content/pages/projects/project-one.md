@@ -7,7 +7,7 @@ client: ''
 description: ''
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/image_2024-09-05_063321817.png
   altText: Project image
 featuredImage:
   type: ImageBlock
