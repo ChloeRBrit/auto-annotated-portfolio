@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Inventory System
-colors: colors-a
+colors: colors-b
 date: '2024-09-05'
 client: School Project
 description: >-
