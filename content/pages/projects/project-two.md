@@ -5,9 +5,10 @@ colors: colors-a
 date: '2021-12-20'
 client: School Project
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  The project involved developing a web-based dashboard for an animal shelter
+  management system using the Dash framework within Jupyter notebooks. The main
+  functionalities included data visualization, interactive filtering, and
+  geolocation mapping of animal rescue data. 
 featuredImage:
   type: ImageBlock
   url: /images/bg.jpg
