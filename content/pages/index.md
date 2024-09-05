@@ -42,7 +42,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - colors: colors-f
+  - colors: colors-a
     type: FeaturedProjectsSection
     elementId: ''
     actions:
