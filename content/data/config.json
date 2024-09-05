@@ -55,7 +55,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "(440)370-2876",
+            "phoneNumber": "4403702876",
             "phoneAltText": "My phone number",
             "email": "ChloeRBrit@gmail.com",
             "emailAltText": "My email",
