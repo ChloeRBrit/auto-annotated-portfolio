@@ -15,9 +15,9 @@ sections:
       I’M A SOFTWARE ENGINEER, 3D ARTIST,COMPUTER SCIENCE STUDENT, AND A GAME
       DEVELOPER.
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I’m balancing school with my passion projects, including a game I'm
+      developing in my spare time. Working on multiple projects but mostly the
+      game I showed on here. If you want to see more of my journey stay tuned!
     actions: []
     colors: colors-f
     backgroundSize: full
