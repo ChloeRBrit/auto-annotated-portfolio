@@ -14,6 +14,5 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/studio64_qSBsU6rmJs.png
   altText: Project image
 ---
