@@ -10,54 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: >-
-      I’m a Software Engineer, 3D Artist,Computer Science Student, and a game
-      developer.
-    subtitle: >-
-      I’m balancing school with my passion projects, including a game I'm
-      developing in my spare time. I have other projects I'm working on too. Be
-      sure to stay tuned as I'm going to be updating as I complete my journey!
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-        fontStyle: italic
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
-    media:
-      type: VideoBlock
-      title: MyGameAnd Models
-      url: ''
-      elementId: ''
-      autoplay: false
-      loop: false
-      muted: false
-      controls: true
-      aspectRatio: '16:9'
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
