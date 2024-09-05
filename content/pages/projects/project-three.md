@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Web Application Dashboard
 colors: colors-a
 date: '2024-09-05'
-client: Awesome client
+client: School Project
 description: >-
   The project involved developing a web-based dashboard for an animal shelter
   management system using the Dash framework within Jupyter notebooks. The main
