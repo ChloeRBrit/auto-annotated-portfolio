@@ -15,6 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   altText: Project image
+  url: /images/studio64_C2GsKYV7cF.png
 bottomSections:
   - type: MediaGallerySection
     title: Gallery
