@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: 'I’m a Software Engineer, 3D Artist, and a game developer.'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I’m balancing school with my passion projects, including a game I'm
+      developing in my spare time. Dive into my journey, skills, and credentials
+      below—you're sure to be impressed!
     styles:
       self:
         height: auto
