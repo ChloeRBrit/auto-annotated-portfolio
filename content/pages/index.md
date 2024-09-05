@@ -19,7 +19,7 @@ sections:
       developing in my spare time. Working on multiple projects but mostly the
       game I showed on here. If you want to see more of my journey stay tuned!
     actions: []
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
