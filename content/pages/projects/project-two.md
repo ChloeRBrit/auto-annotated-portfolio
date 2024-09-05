@@ -10,7 +10,7 @@ description: >-
   and a SMS system.
 featuredImage:
   type: ImageBlock
-  url: /images/studio64_EJYgzDvRiG.png
+  url: /images/studio64_YUSKwZmgLQ.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
