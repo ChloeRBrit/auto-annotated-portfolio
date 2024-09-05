@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ''
+title: Web Application Dashboard
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
