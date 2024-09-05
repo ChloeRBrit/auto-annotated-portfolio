@@ -14,6 +14,10 @@ media:
   url: /images/opera_uj56CSawe2.png
   altText: Project image
 bottomSections: []
+featuredImage:
+  type: ImageBlock
+  url: /images/bg2.jpg
+  altText: Project image
 ---
 The project involved developing a web-based dashboard for an animal shelter management system using the Dash framework within Jupyter notebooks. The main functionalities included data visualization, interactive filtering, and geolocation mapping of animal rescue data. MongoDB was chosen as the database backend due to its flexibility with JSON-like documents, which align well with Python's data structures.
 
