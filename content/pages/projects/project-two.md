@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Inventory System
 colors: colors-a
-date: '2024-09-20'
+date: '2024-09-05'
 client: School Project
 description: >-
   The app I created goal is to be an inventory tracking system. This includes
