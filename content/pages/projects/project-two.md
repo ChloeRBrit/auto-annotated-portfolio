@@ -16,3 +16,4 @@ media:
   type: ImageBlock
   altText: Project image
 ---
+My inventory app starts at the log in or register screen. Once they user registers or types in their login they are able to go to the next screen which is enabling SMS or the welcome screen if they already been asked about notifications.
