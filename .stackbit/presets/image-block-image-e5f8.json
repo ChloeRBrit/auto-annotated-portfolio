@@ -1,0 +1,27 @@
+{
+    "model": "ImageBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Image",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "image"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "url": {
+                    "$$ref": "stackbit_asset_id:static:public/images/bg2.jpg",
+                    "$$type": "__asset_model"
+                },
+                "altText": "Project image",
+                "caption": null,
+                "elementId": null
+            },
+            "thumbnail": "images/image-block-image-e5f8.png"
+        }
+    ]
+}
